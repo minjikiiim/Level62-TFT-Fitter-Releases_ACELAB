@@ -1,5 +1,5 @@
 {
-  "version": "1.27.0",
+  "version": "1.27.1",
   "installer_url": "https://github.com/minjikiiim/Level62-TFT-Fitter-Releases_ACELAB/releases/download/v1.27.0/Level62_TFT_Fitter_Setup_v1.27.0.exe",
-  "release_notes": "Initial public release with parameter search, LTPS PMOS fitting, Settings-sheet reconstruction, off-current override, and multi-selection."
+  "release_notes": "Improved PMOS fitting and fixed Excel Settings reconstruction."
 }
