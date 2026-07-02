@@ -1,5 +1,5 @@
 {
-  "version": "1.27.1",
-  "installer_url": "https://github.com/minjikiiim/Level62-TFT-Fitter-Releases_ACELAB/releases/download/v.1.27.1/Level62_TFT_Fitter_Setup_v1.27.1.exe",
+  "version": "1.27.3",
+  "installer_url": "https://github.com/minjikiiim/Level62-TFT-Fitter-Releases_ACELAB/releases/download/v.1.27.3/Level62_TFT_Fitter_Setup_v1.27.3.exe",
   "release_notes": "Improved PMOS fitting and fixed Excel Settings reconstruction."
 }
